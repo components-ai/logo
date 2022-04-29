@@ -8,6 +8,5 @@ const withMDX = require('@next/mdx')({
 
 module.exports = withMDX({
   reactStrictMode: true,
-  basePath: '/internal/logo',
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
 })
