@@ -1,3 +1,3 @@
 # @compai/logo
 
-[See the logo &rarr;](https://components.ai/logo)
+[See the logo &rarr;](https://compai-logo.vercel.app)
