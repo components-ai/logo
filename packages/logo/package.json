@@ -26,7 +26,7 @@
   "devDependencies": {
     "@types/d3-delaunay": "^6.0.0",
     "@types/react": "18.0.8",
-    "@types/react-dom": "^18.0.1",
+    "@types/react-dom": "^18.0.3",
     "@types/seedrandom": "^3.0.2",
     "config": "*",
     "tsconfig": "*",
