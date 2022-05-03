@@ -16,6 +16,10 @@ export default function Docs() {
     },
     color: '#000',
     backgroundColor: '#fff',
+    strokeWidth: {
+      value: 4,
+      unit: 'px',
+    },
   })
 
   return (
@@ -37,6 +41,7 @@ export default function Docs() {
             height={stringifyProperty('height', styles.height)}
             // @ts-ignore
             width={stringifyProperty('width', styles.width)}
+            strokeWidth={stringifyProperty('width', styles.strokeWidth)}
             color={styles.color}
           />
         </div>
