@@ -1,5 +1,11 @@
 # @compai/logo
 
+## 0.1.2
+
+### Patch Changes
+
+- 703dd33: Bump deps
+
 ## 0.1.1
 
 ### Patch Changes
