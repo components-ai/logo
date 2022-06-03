@@ -24,7 +24,7 @@
     "react-dom": ">= 18"
   },
   "devDependencies": {
-    "@types/d3-delaunay": "^6.0.0",
+    "@types/d3-delaunay": "^6.0.1",
     "@types/react": "18.0.10",
     "@types/react-dom": "^18.0.3",
     "@types/seedrandom": "^3.0.2",

@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3001",
+    "dev": "next dev --port 3002",
     "build": "next build",
     "start": "next start",
     "clean": "rm -rf node_modules .next .turbo",
     "lint": "next lint"
   },
   "dependencies": {
-    "@compai/css-gui": "^0.0.28",
+    "@compai/css-gui": "^0.0.93",
     "@compai/logo": "*",
     "@emotion/react": "^11.9.0",
     "@mdx-js/loader": "^2.1.1",
