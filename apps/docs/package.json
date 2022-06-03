@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.38",
-    "@types/react": "18.0.8",
+    "@types/react": "18.0.10",
     "config": "*",
     "eslint": "8.14.0",
     "tsconfig": "*",
