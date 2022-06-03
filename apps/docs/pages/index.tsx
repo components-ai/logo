@@ -41,6 +41,7 @@ export default function Docs() {
             height={stringifyProperty('height', styles.height)}
             // @ts-ignore
             width={stringifyProperty('width', styles.width)}
+            // @ts-ignore
             strokeWidth={stringifyProperty('width', styles.strokeWidth)}
             color={styles.color}
           />

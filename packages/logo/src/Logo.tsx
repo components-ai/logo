@@ -62,6 +62,7 @@ export const Logo = ({
     coordinates.push(randomPoint)
   }
 
+  // @ts-ignore
   const delaunay = Delaunay.from(coordinates)
 
   return (
