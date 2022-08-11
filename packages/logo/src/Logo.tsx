@@ -1,3 +1,4 @@
+import * as React from 'react'
 import { Delaunay } from 'd3-delaunay'
 import { useId } from 'react'
 import seedrandom from 'seedrandom'
@@ -67,7 +68,7 @@ export const Logo = ({
 
   return (
     <span
-      sx={{
+      style={{
         width,
         height,
         color,
@@ -85,7 +86,7 @@ export const Logo = ({
           ' ' +
           parseInt(viewBoxHeight.toString())
         }
-        sx={{
+        style={{
           fill: 'currentColor',
           display: 'block',
           height,
